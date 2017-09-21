@@ -3,7 +3,7 @@ Deep Q Network is called DQN, is the combination of Q learning and Neural networ
 System Requirement:
 Ubuntu and Python 2.7
 
-Step:
+Steps:
 1. Install Anaconda on your computer followed by this link:
 https://docs.anaconda.com/anaconda/install/linux
 2. Install Tensorflow with Anaconda(Tensorflow cpu version without GPU)
